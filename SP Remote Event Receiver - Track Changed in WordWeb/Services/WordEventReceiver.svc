@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="SP_Remote_Event_Receiver___Track_Changed_in_WordWeb.Services.WordEventReceiver" CodeBehind="WordEventReceiver.svc.cs" %>

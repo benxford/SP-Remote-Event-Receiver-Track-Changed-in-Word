@@ -52,17 +52,6 @@
     </AppManifestFile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SP Remote Event Receiver - Track Changed in WordWeb\SP Remote Event Receiver - Track Changed in WordWeb.csproj">
-      <Project>{5527CB52-F792-45F1-8AE0-6CB1DA9FC40E}</Project>
-      <Name>SP Remote Event Receiver - Track Changed in WordWeb</Name>
-      <Private>True</Private>
-      <RoleType>Web</RoleType>
-      <OutputItemType>SharePointWebProjectOutput</OutputItemType>
-      <RoleName>SP Remote Event Receiver - Track Changed in WordWeb</RoleName>
-      <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="app.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
