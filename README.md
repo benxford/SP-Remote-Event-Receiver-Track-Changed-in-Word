@@ -1,4 +1,4 @@
-# SP Remote Event Receiver - Track Changed in Word
+# SP Remote Event Receiver - Track Changes in Word
 
 ## Setup notes
 1. Create a new App Registration in Azure
